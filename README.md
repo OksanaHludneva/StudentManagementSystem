@@ -1,4 +1,4 @@
-# StudentManagementSystem
+# Student Management System
 This is considered to be SDA Homework. 
 
 All the code is implemented using Java and the result is stored in MySQL tables.
